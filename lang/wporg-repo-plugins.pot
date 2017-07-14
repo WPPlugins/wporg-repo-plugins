@@ -1,0 +1,67 @@
+# Copyright (C) 2012 WPORG Repo Plugins
+# This file is distributed under the same license as the WPORG Repo Plugins package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPORG Repo Plugins 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wporg-repo-plugins\n"
+"POT-Creation-Date: 2012-06-03 05:13:02+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wporg-repo-plugins.php:33
+msgid "Your WordPress.org Repository Plugins"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WPORG Repo Plugins 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wporg-repo-plugins.php:35
+msgid "WPORG Repo Plugins"
+msgstr ""
+
+#: wporg-repo-plugins.php:138
+msgid "Title:"
+msgstr ""
+
+#: wporg-repo-plugins.php:144
+msgid "Hide Title?"
+msgstr ""
+
+#: wporg-repo-plugins.php:147
+msgid "WP.org Username:"
+msgstr ""
+
+#: wporg-repo-plugins.php:152
+msgid "Before Format:"
+msgstr ""
+
+#: wporg-repo-plugins.php:158
+msgid "Format:"
+msgstr ""
+
+#: wporg-repo-plugins.php:175
+msgid "Separator:"
+msgstr ""
+
+#: wporg-repo-plugins.php:181
+msgid "After Format:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://trepmal.com/plugins/wporg-repo-plugins/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Widget to display plugins on the wordpress.org repository by author"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kailey Lampert"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kaileylampert.com/"
+msgstr ""
